@@ -7,8 +7,9 @@ File placed under `src/main/java/talks/mjc`.
 ### Task
 Update this file by adding a logic of writing to console following: `Hello, World!`
 
-**_Tip_**: Replace lines `// Write your code here!` with the missing lines.
-You can check section: `Writing first application`.
+public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 
 ### Requirements
 - Project should be compiled with no errors.
